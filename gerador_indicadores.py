@@ -4,8 +4,8 @@ Lista estática de indicadores fornecida pelo usuário
 """
 
 # Variáveis de avaliação baseadas na rede
-avaliacao_estadual = "1886"
-avaliacao_municipal = "1887"
+avaliacao_estadual = "2070"
+avaliacao_municipal = "2074"
 
 def gerar_todos_indicadores(rede_selecionada="Estadual"):
     """
